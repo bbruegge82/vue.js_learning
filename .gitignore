@@ -1,0 +1,6 @@
+### IntelliJ IDEA ###
+.idea
+
+## Target Folders ##
+/application/target
+/web/target
