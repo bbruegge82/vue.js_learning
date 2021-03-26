@@ -1,5 +1,6 @@
 ### IntelliJ IDEA ###
 .idea
+.mvn
 
 ## Target Folders ##
 /application/target
